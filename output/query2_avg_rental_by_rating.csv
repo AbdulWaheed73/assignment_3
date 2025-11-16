@@ -1,0 +1,6 @@
+rating,film_count,avg_rental_rate,min_rental_rate,max_rental_rate
+PG-13,10,3.59,0.99,4.99
+R,9,3.21,0.99,4.99
+NC-17,12,2.82,0.99,4.99
+G,12,2.66,0.99,4.99
+PG,7,2.13,0.99,4.99

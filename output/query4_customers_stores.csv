@@ -1,0 +1,21 @@
+customer_id,customer_name,email,store_id,store_manager_id
+17,DONNA THOMPSON,DONNA.THOMPSON@sakilacustomer.org,1,1
+10,DOROTHY TAYLOR,DOROTHY.TAYLOR@sakilacustomer.org,1,1
+5,ELIZABETH BROWN,ELIZABETH.BROWN@sakilacustomer.org,1,1
+15,HELEN HARRIS,HELEN.HARRIS@sakilacustomer.org,1,1
+3,LINDA WILLIAMS,LINDA.WILLIAMS@sakilacustomer.org,1,1
+7,MARIA MILLER,MARIA.MILLER@sakilacustomer.org,1,1
+1,MARY SMITH,MARY.SMITH@sakilacustomer.org,1,1
+12,NANCY THOMAS,NANCY.THOMAS@sakilacustomer.org,1,1
+2,PATRICIA JOHNSON,PATRICIA.JOHNSON@sakilacustomer.org,1,1
+19,RUTH MARTINEZ,RUTH.MARTINEZ@sakilacustomer.org,1,1
+20,SHARON ROBINSON,SHARON.ROBINSON@sakilacustomer.org,1,1
+4,BARBARA JONES,BARBARA.JONES@sakilacustomer.org,2,2
+14,BETTY WHITE,BETTY.WHITE@sakilacustomer.org,2,2
+18,CAROL GARCIA,CAROL.GARCIA@sakilacustomer.org,2,2
+6,JENNIFER DAVIS,JENNIFER.DAVIS@sakilacustomer.org,2,2
+13,KAREN JACKSON,KAREN.JACKSON@sakilacustomer.org,2,2
+11,LISA ANDERSON,LISA.ANDERSON@sakilacustomer.org,2,2
+9,MARGARET MOORE,MARGARET.MOORE@sakilacustomer.org,2,2
+16,SANDRA MARTIN,SANDRA.MARTIN@sakilacustomer.org,2,2
+8,SUSAN WILSON,SUSAN.WILSON@sakilacustomer.org,2,2

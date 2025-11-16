@@ -1,0 +1,21 @@
+payment_id,customer_id,amount,payment_date,staff_name,staff_email
+1,1,2.99,2005-05-25T11:30:37Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+2,1,0.99,2005-05-28T10:35:23Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+3,1,5.99,2005-06-15T00:54:12Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+4,1,0.99,2005-06-15T18:02:53Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+5,1,9.99,2005-06-15T21:08:46Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+6,2,4.99,2005-06-16T15:18:57Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+7,2,4.99,2005-06-18T08:41:48Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+8,2,0.99,2005-06-18T13:33:59Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+9,3,3.99,2005-06-21T06:24:45Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+10,3,5.99,2005-07-08T03:17:05Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+11,3,5.99,2005-07-08T07:33:56Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+12,4,4.99,2005-07-09T13:24:07Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+13,4,4.99,2005-07-09T16:38:01Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+14,4,7.99,2005-07-11T10:13:46Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+15,5,2.99,2005-07-27T11:31:22Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+16,5,4.99,2005-07-28T09:04:45Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+17,5,4.99,2005-07-28T16:18:23Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
+18,5,0.99,2005-07-31T03:27:58Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+19,6,4.99,2005-08-01T08:51:04Z,Jon Stephens,Jon.Stephens@sakilastaff.com
+20,6,0.99,2005-08-02T00:02:44Z,Mike Hillyer,Mike.Hillyer@sakilastaff.com
